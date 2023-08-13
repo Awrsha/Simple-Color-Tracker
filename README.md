@@ -61,7 +61,7 @@ To use this project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/color-tracker.git
+git clone https://github.com/Awrsha/Simple-Color-Tracker.git
 ```
 
 2. Install the required dependencies based on your chosen language (Python or C++).
